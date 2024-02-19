@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+    border-color: red;
+    border-bottom: solid;
+}
+
+.recipe-class {
+    
+    text-align:left;
+    border-color: black;
+    align-content: center;
+    text-align: center;
+}
+
+#ch {
+    border-style: dashed;
+    background-color: aqua;
+}
+
+#cgp {
+    border-style: dashed;
+    background-color: aqua;
+}
